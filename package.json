@@ -38,7 +38,7 @@
     "idx": "^2.5.6",
     "jsonwebtoken": "^8.5.1",
     "jwt-passport": "^0.0.5",
-    "knex": "^0.20.7",
+    "knex": "^0.95.7",
     "load-script": "^1.0.0",
     "lodash": "^4.17.15",
     "moment-timezone": "^0.5.27",
